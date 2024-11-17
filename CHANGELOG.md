@@ -2,12 +2,6 @@
 
 ## 1.0.0 (2024-11-17)
 
-
-### ⚠ BREAKING CHANGES
-
-* allow both a value and file for the private key
-* use private key file
-
 ### Features
 
 * add script with deno init ([a0d3e4a](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/a0d3e4ae93dce2557a1ce52550f0e191072e9575))
