@@ -1,0 +1,9 @@
+{
+  "release-type": "node",
+  "versioning": "default",
+  "bump-minor-pre-major": true,
+  "bump-patch-for-minor-pre-major": true,
+  "pull-request-title-pattern": "chore: release${component} ${version}",
+  "plugins": ["sentence-case"],
+  "packages": {}
+}
