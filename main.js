@@ -3,10 +3,12 @@ import { App } from "octokit";
 try {
     const appId = process.env.GITHUB_APP_ID;
     const installId = process.env.GITHUB_APP_INSTALL_ID;
-    const privateKey = process.env.GITHUB_APP_PRIVATE_KEY;
+    const privateKeyFile = process.env.GITHUB_APP_PRIVATE_KEY_FILE;
 
     const renovateConfigFile = process.env.RENOVATE_CONFIG_FILE || "config.json";
     const renovateConfigDestination = process.env.RENOVATE_CONFIG_DESTINATION || renovateConfigFile;
+
+    const privateKey = await Deno.readTextFile(privateKeyFile);
 
     const app = new App({
         appId: appId,
