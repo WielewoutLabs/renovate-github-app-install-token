@@ -68,7 +68,7 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
       - name: Docker meta
         id: meta
-        uses: docker/metadata-action@v5.5.1
+        uses: docker/metadata-action@v5.7.0
         with:
           images: |
             ghcr.io/wielewoutlabs/renovate-github-app-install-token
