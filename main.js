@@ -1,4 +1,5 @@
 import { App } from "octokit";
+import process from "node:process";
 
 try {
     const appId = process.env.GITHUB_APP_ID;
