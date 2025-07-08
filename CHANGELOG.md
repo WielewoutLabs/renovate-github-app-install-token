@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.2](https://github.com/WielewoutLabs/renovate-github-app-install-token/compare/v1.0.1...v1.0.2) (2025-07-08)
+
+
+### Bug Fixes
+
+* **deps:** update denoland/deno:alpine docker digest to 17fd311 ([#21](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/21)) ([55ee549](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/55ee549b108b9ded8bfef268e8d69b4aea0c72dd))
+* **deps:** update denoland/deno:alpine docker digest to 7ab8890 ([#16](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/16)) ([e666088](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/e66608889e7dfb509d1465100680058ad3dc3149))
+* **deps:** update denoland/deno:alpine docker digest to bec860a ([#19](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/19)) ([d9b3eaa](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/d9b3eaa0fd732152336278d71aa77ef6a8e73e15))
+* **deps:** update denoland/deno:alpine docker digest to ecf2608 ([#15](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/15)) ([ef8b1a0](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/ef8b1a0ff9fb696fd91586f1c085e7d24c911f9d))
+* **deps:** update denoland/deno:alpine docker digest to fcf215c ([#20](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/20)) ([f50f900](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/f50f90075ec7e08a605a398e463d021b72f32d9d))
+* **deps:** update docker/build-push-action action to v6.18.0 ([#13](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/13)) ([28e6f69](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/28e6f690398d503436bc7f30248b6ed9eb695c58))
+* **deps:** update docker/setup-buildx-action action to v3.11.0 ([#17](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/17)) ([15ea931](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/15ea931cfbd2ceca6483f4a1320c60a677dc85f6))
+* **deps:** update docker/setup-buildx-action action to v3.11.1 ([#18](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/18)) ([8d0bb8e](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/8d0bb8e5bb9cf401880d5b290360d1f66724fd11))
+
 ## [1.0.1](https://github.com/WielewoutLabs/renovate-github-app-install-token/compare/v1.0.0...v1.0.1) (2025-05-22)
 
 
