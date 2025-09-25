@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.3](https://github.com/WielewoutLabs/renovate-github-app-install-token/compare/v1.0.2...v1.0.3) (2025-09-25)
+
+
+### Bug Fixes
+
+* **deps:** update denoland/deno:alpine docker digest to 5ecf3a7 ([#34](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/34)) ([9da4b32](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/9da4b32f825acf78d124a9e4a7f0c956cc26d3cf))
+* **deps:** update denoland/deno:alpine docker digest to 8f58f39 ([#31](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/31)) ([c59719d](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/c59719dbb4cf5da4bf8c653d26c91152affe7c2b))
+* **deps:** update denoland/deno:alpine docker digest to 904ba91 ([#33](https://github.com/WielewoutLabs/renovate-github-app-install-token/issues/33)) ([e8dd567](https://github.com/WielewoutLabs/renovate-github-app-install-token/commit/e8dd56724d3142f733714b21383fc908ce6ee35c))
+
 ## [1.0.2](https://github.com/WielewoutLabs/renovate-github-app-install-token/compare/v1.0.1...v1.0.2) (2025-09-09)
 
 
