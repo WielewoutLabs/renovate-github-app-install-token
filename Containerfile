@@ -1,4 +1,4 @@
-FROM denoland/deno:alpine@sha256:c551369238c5d170700e544bfaf81cba2a398da4b6c0de7d462c8768088b19fe
+FROM denoland/deno:alpine@sha256:bfe6fc22587a359956a275f1e06f1f43bd3ef1c2bf6f40982d44fee31e6bf9bb
 
 WORKDIR /app
 COPY . /app/
